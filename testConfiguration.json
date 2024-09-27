@@ -1,0 +1,22 @@
+{
+  "CompanyJSON": {
+    "MicrosoftJSON": {
+      "assetsBillions": 364.84,
+      "capitalizationTrillions": 2.83,
+      "staff": 238000,
+      "fullName": "Microsoft Corporation"
+    },
+    "AppleJSON": {
+      "assetsBillions": 352.58,
+      "capitalizationTrillions": 2.89,
+      "staff": 161000,
+      "fullName": "Apple Inc"
+    },
+    "GoogleJSON": {
+      "assetsBillions": 365.26,
+      "capitalizationTrillions": 1.38,
+      "staff": 182502,
+      "fullName": "Google LLC"
+    }
+  }
+}

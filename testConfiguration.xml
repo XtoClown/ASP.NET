@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<CompanyXML>
+		<MicrosoftXML>
+			<assetsBillions>364.84</assetsBillions>
+			<capitalizationTrillions>2.83</capitalizationTrillions>
+			<staff>238000</staff>
+			<fullName>Microsoft Corporation</fullName>
+		</MicrosoftXML>
+		<AppleXML>
+			<assetsBillions>352.58</assetsBillions>
+			<capitalizationTrillions>2.89</capitalizationTrillions>
+			<staff>161000</staff>
+			<fullName>Apple Inc</fullName>
+		</AppleXML>
+		<GoogleXML>
+			<assetsBillions>365.26</assetsBillions>
+			<capitalizationTrillions>1.38</capitalizationTrillions>
+			<staff>182502</staff>
+			<fullName>Google LLC</fullName>
+		</GoogleXML>
+	</CompanyXML>
+</configuration>

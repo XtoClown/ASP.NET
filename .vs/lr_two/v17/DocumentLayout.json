@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5 SEMESTR\\ASP.NET\\lr_two\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4196A6B-1B0C-4E90-9770-E750F0B8C473}|lr_two.csproj|d:\\5 semestr\\asp.net\\lr_two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4196A6B-1B0C-4E90-9770-E750F0B8C473}|lr_two.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4196A6B-1B0C-4E90-9770-E750F0B8C473}|lr_two.csproj|d:\\5 semestr\\asp.net\\lr_two\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4196A6B-1B0C-4E90-9770-E750F0B8C473}|lr_two.csproj|solutionrelative:services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4196A6B-1B0C-4E90-9770-E750F0B8C473}|lr_two.csproj|d:\\5 semestr\\asp.net\\lr_two\\authorinfo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4196A6B-1B0C-4E90-9770-E750F0B8C473}|lr_two.csproj|solutionrelative:authorinfo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4196A6B-1B0C-4E90-9770-E750F0B8C473}|lr_two.csproj|d:\\5 semestr\\asp.net\\lr_two\\testconfiguration.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E4196A6B-1B0C-4E90-9770-E750F0B8C473}|lr_two.csproj|solutionrelative:testconfiguration.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4196A6B-1B0C-4E90-9770-E750F0B8C473}|lr_two.csproj|d:\\5 semestr\\asp.net\\lr_two\\testconfiguration.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E4196A6B-1B0C-4E90-9770-E750F0B8C473}|lr_two.csproj|solutionrelative:testconfiguration.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4196A6B-1B0C-4E90-9770-E750F0B8C473}|lr_two.csproj|d:\\5 semestr\\asp.net\\lr_two\\testconfiguration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4196A6B-1B0C-4E90-9770-E750F0B8C473}|lr_two.csproj|solutionrelative:testconfiguration.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_two\\Services\\TestService.cs",
+              "RelativeDocumentMoniker": "Services\\TestService.cs",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_two\\Services\\TestService.cs",
+              "RelativeToolTip": "Services\\TestService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:53:53.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_two\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_two\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:56:56.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "testConfiguration.ini",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_two\\testConfiguration.ini",
+              "RelativeDocumentMoniker": "testConfiguration.ini",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_two\\testConfiguration.ini",
+              "RelativeToolTip": "testConfiguration.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2024-09-12T16:54:06.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "testConfiguration.xml",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_two\\testConfiguration.xml",
+              "RelativeDocumentMoniker": "testConfiguration.xml",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_two\\testConfiguration.xml",
+              "RelativeToolTip": "testConfiguration.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-12T16:49:46.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "testConfiguration.json",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_two\\testConfiguration.json",
+              "RelativeDocumentMoniker": "testConfiguration.json",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_two\\testConfiguration.json",
+              "RelativeToolTip": "testConfiguration.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T16:40:56.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "authorInfo.json",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_two\\authorInfo.json",
+              "RelativeDocumentMoniker": "authorInfo.json",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_two\\authorInfo.json",
+              "RelativeToolTip": "authorInfo.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T20:53:31.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
