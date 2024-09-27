@@ -1,0 +1,19 @@
+{
+  "Book": {
+    "chamberOfSecrets": {
+      "name": "Harry Potter and the Chamber of Secrets",
+      "author": "Joanne Rowling",
+      "releaseYear": 1998
+    },
+    "prisonerOfAzkaban": {
+      "name": "Harry Potter and the Prisoner of Azkaban",
+      "author": "Joanne Rowling",
+      "releaseYear": 1999
+    },
+    "gobletOfFire": {
+      "name": "Harry Potter and the Goblet of Fire",
+      "author": "Joanne Rowling",
+      "releaseYear": 2000
+    }
+  }
+}

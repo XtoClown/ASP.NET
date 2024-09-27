@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5 SEMESTR\\ASP.NET\\lr_four\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D07410B-6E54-4289-B3BE-22C7DBC5A4E4}|lr_four.csproj|d:\\5 semestr\\asp.net\\lr_four\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D07410B-6E54-4289-B3BE-22C7DBC5A4E4}|lr_four.csproj|solutionrelative:controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D07410B-6E54-4289-B3BE-22C7DBC5A4E4}|lr_four.csproj|d:\\5 semestr\\asp.net\\lr_four\\profileconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D07410B-6E54-4289-B3BE-22C7DBC5A4E4}|lr_four.csproj|solutionrelative:profileconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D07410B-6E54-4289-B3BE-22C7DBC5A4E4}|lr_four.csproj|d:\\5 semestr\\asp.net\\lr_four\\bookconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D07410B-6E54-4289-B3BE-22C7DBC5A4E4}|lr_four.csproj|solutionrelative:bookconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D07410B-6E54-4289-B3BE-22C7DBC5A4E4}|lr_four.csproj|d:\\5 semestr\\asp.net\\lr_four\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D07410B-6E54-4289-B3BE-22C7DBC5A4E4}|lr_four.csproj|solutionrelative:services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D07410B-6E54-4289-B3BE-22C7DBC5A4E4}|lr_four.csproj|d:\\5 semestr\\asp.net\\lr_four\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D07410B-6E54-4289-B3BE-22C7DBC5A4E4}|lr_four.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bookConfig.json",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_four\\bookConfig.json",
+              "RelativeDocumentMoniker": "bookConfig.json",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_four\\bookConfig.json",
+              "RelativeToolTip": "bookConfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T19:12:59.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_four\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibraryController.cs",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_four\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "Controllers\\LibraryController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:21:51.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "profileConfig.json",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_four\\profileConfig.json",
+              "RelativeDocumentMoniker": "profileConfig.json",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_four\\profileConfig.json",
+              "RelativeToolTip": "profileConfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T14:45:03.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_four\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_four\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:33:58.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_four\\Services\\LibraryService.cs",
+              "RelativeDocumentMoniker": "Services\\LibraryService.cs",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_four\\Services\\LibraryService.cs",
+              "RelativeToolTip": "Services\\LibraryService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:23:05.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

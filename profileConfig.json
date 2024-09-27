@@ -1,0 +1,40 @@
+{
+  "Profile": {
+    "profile0": {
+      "id": 0,
+      "name": "Ethan",
+      "yearsOld": 18,
+      "books": [ "Harry Potter and the Chamber of Secrets", "Harry Potter and the Prisoner of Azkaban" ]
+    },
+    "profile1": {
+      "id": 1,
+      "name": "Peter",
+      "yearsOld": 15,
+      "books": [ "Harry Potter and the Goblet of Fire" ]
+    },
+    "profile2": {
+      "id": 2,
+      "name": "Nick",
+      "yearsOld": 20,
+      "books": [ "Harry Potter and the Goblet of Fire", "Harry Potter and the Chamber of Secrets", "Harry Potter and the Prisoner of Azkaban" ]
+    },
+    "profile3": {
+      "id": 3,
+      "name": "Clyde",
+      "yearsOld": 17,
+      "books": [ "Harry Potter and the Chamber of Secrets", "Harry Potter and the Goblet of Fire" ]
+    },
+    "profile4": {
+      "id": 4,
+      "name": "Rose",
+      "yearsOld": 19,
+      "books": [ "Harry Potter and the Prisoner of Azkaban" ]
+    },
+    "profile5": {
+      "id": 5,
+      "name": "Lily",
+      "yearsOld": 19,
+      "books": [ "Harry Potter and the Goblet of Fire", "Harry Potter and the Chamber of Secrets" ]
+    }
+  }
+}
