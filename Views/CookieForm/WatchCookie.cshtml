@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "WatchCookie";
+    string text = ViewBag.savedText == null ? "" : ViewBag.savedText;
+    DateTime date = ViewBag.savedDate == null ? DateTime.Parse("01.01.1984 00:00:00") : DateTime.Parse(ViewBag.savedDate);
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div style="height: 100%; width: 100%; margin: 0px; display: flex; flex-direction: column; justify-content: center; align-items: center; font-size: 3vmin">
+    <h1>Saved text cookie: @text</h1>
+    <h1>Saved data cookie: @date</h1>
+    <a asp-action="Index">Back to form</a>
+</div>
+

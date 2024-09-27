@@ -1,0 +1,266 @@
+[2024-09-27 19:06:16 INF] User profile is available. Using 'C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+{ EventId: { Id: 63, Name: "UsingProfileAsKeyRepositoryWithDPAPI" }, SourceContext: "Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager" }
+[2024-09-27 19:06:17 WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+{ EventId: { Id: 8, Name: "DeveloperCertificateNotTrusted" }, SourceContext: "Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer" }
+[2024-09-27 19:06:17 INF] Now listening on: https://localhost:7261
+{ EventId: { Id: 14, Name: "ListeningOnAddress" }, SourceContext: "Microsoft.Hosting.Lifetime" }
+[2024-09-27 19:06:17 INF] Now listening on: http://localhost:5092
+{ EventId: { Id: 14, Name: "ListeningOnAddress" }, SourceContext: "Microsoft.Hosting.Lifetime" }
+[2024-09-27 19:06:17 INF] Application started. Press Ctrl+C to shut down.
+{ SourceContext: "Microsoft.Hosting.Lifetime" }
+[2024-09-27 19:06:17 INF] Hosting environment: Development
+{ SourceContext: "Microsoft.Hosting.Lifetime" }
+[2024-09-27 19:06:17 INF] Content root path: D:\5 SEMESTR\ASP.NET\lr_five
+{ SourceContext: "Microsoft.Hosting.Lifetime" }
+[2024-09-27 19:06:26 INF] Request starting HTTP/2 GET https://localhost:7261/ - null null
+{ EventId: { Id: 1 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1P8UIMN3:00000001", RequestPath: "/", ConnectionId: "0HN6V1P8UIMN3" }
+[2024-09-27 19:06:26 ERR] Exception of type 'System.Exception' was thrown.
+{ SourceContext: "lr_five.Middleware.ErrorHandlingMiddleware", RequestId: "0HN6V1P8UIMN3:00000001", RequestPath: "/", ConnectionId: "0HN6V1P8UIMN3" }System.Exception: Exception of type 'System.Exception' was thrown.
+   at lr_five.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in D:\5 SEMESTR\ASP.NET\lr_five\Middleware\ErrorHandlingMiddleware.cs:line 25
+
+[2024-09-27 19:06:27 INF] Request finished HTTP/2 GET https://localhost:7261/ - 500 null null 1271.4562ms
+{ EventId: { Id: 2 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1P8UIMN3:00000001", RequestPath: "/", ConnectionId: "0HN6V1P8UIMN3" }
+[2024-09-27 19:06:27 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7261/, Response status code: 500
+{ EventId: { Id: 16 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1P8UIMN3:00000001", RequestPath: "/", ConnectionId: "0HN6V1P8UIMN3" }
+[2024-09-27 19:06:30 INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+{ EventId: { Id: 1 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1P8UIMN3:00000003", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1P8UIMN3" }
+[2024-09-27 19:06:30 ERR] Exception of type 'System.Exception' was thrown.
+{ SourceContext: "lr_five.Middleware.ErrorHandlingMiddleware", RequestId: "0HN6V1P8UIMN3:00000003", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1P8UIMN3" }System.Exception: Exception of type 'System.Exception' was thrown.
+   at lr_five.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in D:\5 SEMESTR\ASP.NET\lr_five\Middleware\ErrorHandlingMiddleware.cs:line 25
+
+[2024-09-27 19:06:30 INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null null 87.3118ms
+{ EventId: { Id: 2 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1P8UIMN3:00000003", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1P8UIMN3" }
+[2024-09-27 19:06:30 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7261/favicon.ico, Response status code: 500
+{ EventId: { Id: 16 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1P8UIMN3:00000003", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1P8UIMN3" }
+[2024-09-27 19:10:44 INF] User profile is available. Using 'C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+{ EventId: { Id: 63, Name: "UsingProfileAsKeyRepositoryWithDPAPI" }, SourceContext: "Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager" }
+[2024-09-27 19:10:45 WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+{ EventId: { Id: 8, Name: "DeveloperCertificateNotTrusted" }, SourceContext: "Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer" }
+[2024-09-27 19:10:45 INF] Now listening on: https://localhost:7261
+{ EventId: { Id: 14, Name: "ListeningOnAddress" }, SourceContext: "Microsoft.Hosting.Lifetime" }
+[2024-09-27 19:10:45 INF] Now listening on: http://localhost:5092
+{ EventId: { Id: 14, Name: "ListeningOnAddress" }, SourceContext: "Microsoft.Hosting.Lifetime" }
+[2024-09-27 19:10:45 INF] Application started. Press Ctrl+C to shut down.
+{ SourceContext: "Microsoft.Hosting.Lifetime" }
+[2024-09-27 19:10:45 INF] Hosting environment: Development
+{ SourceContext: "Microsoft.Hosting.Lifetime" }
+[2024-09-27 19:10:45 INF] Content root path: D:\5 SEMESTR\ASP.NET\lr_five
+{ SourceContext: "Microsoft.Hosting.Lifetime" }
+[2024-09-27 19:10:46 INF] Request starting HTTP/2 GET https://localhost:7261/ - null null
+{ EventId: { Id: 1 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000001", RequestPath: "/", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:10:47 ERR] Exception of type 'System.Exception' was thrown.
+{ SourceContext: "lr_five.Middleware.ErrorHandlingMiddleware", RequestId: "0HN6V1ROOSIKD:00000001", RequestPath: "/", ConnectionId: "0HN6V1ROOSIKD" }System.Exception: Exception of type 'System.Exception' was thrown.
+   at lr_five.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in D:\5 SEMESTR\ASP.NET\lr_five\Middleware\ErrorHandlingMiddleware.cs:line 25
+
+[2024-09-27 19:10:47 INF] Request finished HTTP/2 GET https://localhost:7261/ - 500 null null 561.3713ms
+{ EventId: { Id: 2 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000001", RequestPath: "/", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:10:47 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7261/, Response status code: 500
+{ EventId: { Id: 16 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000001", RequestPath: "/", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:10:50 INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+{ EventId: { Id: 1 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000003", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:10:50 ERR] Exception of type 'System.Exception' was thrown.
+{ SourceContext: "lr_five.Middleware.ErrorHandlingMiddleware", RequestId: "0HN6V1ROOSIKD:00000003", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }System.Exception: Exception of type 'System.Exception' was thrown.
+   at lr_five.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in D:\5 SEMESTR\ASP.NET\lr_five\Middleware\ErrorHandlingMiddleware.cs:line 25
+
+[2024-09-27 19:10:50 INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null null 75.3873ms
+{ EventId: { Id: 2 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000003", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:10:50 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7261/favicon.ico, Response status code: 500
+{ EventId: { Id: 16 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000003", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:12:23 INF] Request starting HTTP/2 GET https://localhost:7261/CookieForm - null null
+{ EventId: { Id: 1 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000005", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:12:23 INF] Executing endpoint 'lr_five.Controllers.CookieFormController.Index (lr_five)'
+{ EventId: { Name: "ExecutingEndpoint" }, SourceContext: "Microsoft.AspNetCore.Routing.EndpointMiddleware", RequestId: "0HN6V1ROOSIKD:00000005", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:12:23 INF] Route matched with {action = "Index", controller = "CookieForm"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller lr_five.Controllers.CookieFormController (lr_five).
+{ EventId: { Id: 102, Name: "ControllerActionExecuting" }, SourceContext: "Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker", ActionId: "3ca47c25-3ada-4e6e-b93c-e9e8c9d22ee4", ActionName: "lr_five.Controllers.CookieFormController.Index (lr_five)", RequestId: "0HN6V1ROOSIKD:00000005", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:12:23 INF] Executing ViewResult, running view Index.
+{ EventId: { Id: 1, Name: "ViewResultExecuting" }, SourceContext: "Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor", ActionId: "3ca47c25-3ada-4e6e-b93c-e9e8c9d22ee4", ActionName: "lr_five.Controllers.CookieFormController.Index (lr_five)", RequestId: "0HN6V1ROOSIKD:00000005", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:12:23 INF] Executed ViewResult - view Index executed in 115.9123ms.
+{ EventId: { Id: 4, Name: "ViewResultExecuted" }, SourceContext: "Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor", ActionId: "3ca47c25-3ada-4e6e-b93c-e9e8c9d22ee4", ActionName: "lr_five.Controllers.CookieFormController.Index (lr_five)", RequestId: "0HN6V1ROOSIKD:00000005", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:12:23 INF] Executed action lr_five.Controllers.CookieFormController.Index (lr_five) in 130.6686ms
+{ EventId: { Id: 105, Name: "ActionExecuted" }, SourceContext: "Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker", RequestId: "0HN6V1ROOSIKD:00000005", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:12:23 INF] Executed endpoint 'lr_five.Controllers.CookieFormController.Index (lr_five)'
+{ EventId: { Id: 1, Name: "ExecutedEndpoint" }, SourceContext: "Microsoft.AspNetCore.Routing.EndpointMiddleware", RequestId: "0HN6V1ROOSIKD:00000005", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:12:23 WRN] Unable to configure Browser Link script injection on the response. 
+{ EventId: { Id: 3, Name: "FailedToConfigureForBrowserLink" }, SourceContext: "Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware", RequestId: "0HN6V1ROOSIKD:00000005", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:12:23 WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+{ EventId: { Id: 3, Name: "FailedToConfiguredForRefreshes" }, SourceContext: "Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware", RequestId: "0HN6V1ROOSIKD:00000005", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:12:23 INF] Request finished HTTP/2 GET https://localhost:7261/CookieForm - 200 null text/html; charset=utf-8 259.8542ms
+{ EventId: { Id: 2 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000005", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:12:24 INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+{ EventId: { Id: 1 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000007", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:12:24 ERR] Exception of type 'System.Exception' was thrown.
+{ SourceContext: "lr_five.Middleware.ErrorHandlingMiddleware", RequestId: "0HN6V1ROOSIKD:00000007", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }System.Exception: Exception of type 'System.Exception' was thrown.
+   at lr_five.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in D:\5 SEMESTR\ASP.NET\lr_five\Middleware\ErrorHandlingMiddleware.cs:line 25
+
+[2024-09-27 19:12:24 INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null null 114.0738ms
+{ EventId: { Id: 2 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000007", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:12:24 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7261/favicon.ico, Response status code: 500
+{ EventId: { Id: 16 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000007", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:13:46 INF] Request starting HTTP/2 GET https://localhost:7261/CookieForm/watch_cookie - null null
+{ EventId: { Id: 1 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000009", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:13:46 INF] Executing endpoint 'lr_five.Controllers.CookieFormController.WatchCookie (lr_five)'
+{ EventId: { Name: "ExecutingEndpoint" }, SourceContext: "Microsoft.AspNetCore.Routing.EndpointMiddleware", RequestId: "0HN6V1ROOSIKD:00000009", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:13:46 INF] Route matched with {action = "WatchCookie", controller = "CookieForm"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult WatchCookie() on controller lr_five.Controllers.CookieFormController (lr_five).
+{ EventId: { Id: 102, Name: "ControllerActionExecuting" }, SourceContext: "Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker", ActionId: "6864a6b4-8f1e-4c53-a924-1ca4b4ac31cd", ActionName: "lr_five.Controllers.CookieFormController.WatchCookie (lr_five)", RequestId: "0HN6V1ROOSIKD:00000009", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:13:46 INF] Executing ViewResult, running view WatchCookie.
+{ EventId: { Id: 1, Name: "ViewResultExecuting" }, SourceContext: "Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor", ActionId: "6864a6b4-8f1e-4c53-a924-1ca4b4ac31cd", ActionName: "lr_five.Controllers.CookieFormController.WatchCookie (lr_five)", RequestId: "0HN6V1ROOSIKD:00000009", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:13:47 INF] Executed ViewResult - view WatchCookie executed in 435.9063ms.
+{ EventId: { Id: 4, Name: "ViewResultExecuted" }, SourceContext: "Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor", ActionId: "6864a6b4-8f1e-4c53-a924-1ca4b4ac31cd", ActionName: "lr_five.Controllers.CookieFormController.WatchCookie (lr_five)", RequestId: "0HN6V1ROOSIKD:00000009", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:13:47 INF] Executed action lr_five.Controllers.CookieFormController.WatchCookie (lr_five) in 857.1134ms
+{ EventId: { Id: 105, Name: "ActionExecuted" }, SourceContext: "Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker", RequestId: "0HN6V1ROOSIKD:00000009", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:13:47 INF] Executed endpoint 'lr_five.Controllers.CookieFormController.WatchCookie (lr_five)'
+{ EventId: { Id: 1, Name: "ExecutedEndpoint" }, SourceContext: "Microsoft.AspNetCore.Routing.EndpointMiddleware", RequestId: "0HN6V1ROOSIKD:00000009", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:13:47 ERR] Exception of type 'System.Exception' was thrown.
+{ SourceContext: "lr_five.Middleware.ErrorHandlingMiddleware", RequestId: "0HN6V1ROOSIKD:00000009", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }System.Exception: Exception of type 'System.Exception' was thrown.
+   at lr_five.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in D:\5 SEMESTR\ASP.NET\lr_five\Middleware\ErrorHandlingMiddleware.cs:line 25
+
+[2024-09-27 19:13:48 ERR] An unhandled exception has occurred while executing the request.
+{ EventId: { Id: 1, Name: "UnhandledException" }, SourceContext: "Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware", RequestId: "0HN6V1ROOSIKD:00000009", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at lr_five.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in D:\5 SEMESTR\ASP.NET\lr_five\Middleware\ErrorHandlingMiddleware.cs:line 31
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+
+[2024-09-27 19:13:48 WRN] The response has already started, the error page middleware will not be executed.
+{ EventId: { Id: 2, Name: "ResponseStarted" }, SourceContext: "Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware", RequestId: "0HN6V1ROOSIKD:00000009", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:13:48 ERR] Connection id "0HN6V1ROOSIKD", Request id "0HN6V1ROOSIKD:00000009": An unhandled exception was thrown by the application.
+{ EventId: { Id: 13, Name: "ApplicationError" }, SourceContext: "Microsoft.AspNetCore.Server.Kestrel", RequestId: "0HN6V1ROOSIKD:00000009", RequestPath: "/CookieForm/watch_cookie" }System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at lr_five.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in D:\5 SEMESTR\ASP.NET\lr_five\Middleware\ErrorHandlingMiddleware.cs:line 31
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+
+[2024-09-27 19:13:48 INF] Request finished HTTP/2 GET https://localhost:7261/CookieForm/watch_cookie - 200 null text/html; charset=utf-8 2029.8853ms
+{ EventId: { Id: 2 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000009", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:16 INF] Request starting HTTP/2 GET https://localhost:7261/CookieForm - null null
+{ EventId: { Id: 1 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:0000000B", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:16 INF] Executing endpoint 'lr_five.Controllers.CookieFormController.Index (lr_five)'
+{ EventId: { Name: "ExecutingEndpoint" }, SourceContext: "Microsoft.AspNetCore.Routing.EndpointMiddleware", RequestId: "0HN6V1ROOSIKD:0000000B", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:16 INF] Route matched with {action = "Index", controller = "CookieForm"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller lr_five.Controllers.CookieFormController (lr_five).
+{ EventId: { Id: 102, Name: "ControllerActionExecuting" }, SourceContext: "Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker", ActionId: "3ca47c25-3ada-4e6e-b93c-e9e8c9d22ee4", ActionName: "lr_five.Controllers.CookieFormController.Index (lr_five)", RequestId: "0HN6V1ROOSIKD:0000000B", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:16 INF] Executing ViewResult, running view Index.
+{ EventId: { Id: 1, Name: "ViewResultExecuting" }, SourceContext: "Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor", ActionId: "3ca47c25-3ada-4e6e-b93c-e9e8c9d22ee4", ActionName: "lr_five.Controllers.CookieFormController.Index (lr_five)", RequestId: "0HN6V1ROOSIKD:0000000B", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:16 INF] Executed ViewResult - view Index executed in 9.7781ms.
+{ EventId: { Id: 4, Name: "ViewResultExecuted" }, SourceContext: "Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor", ActionId: "3ca47c25-3ada-4e6e-b93c-e9e8c9d22ee4", ActionName: "lr_five.Controllers.CookieFormController.Index (lr_five)", RequestId: "0HN6V1ROOSIKD:0000000B", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:16 INF] Executed action lr_five.Controllers.CookieFormController.Index (lr_five) in 10.139ms
+{ EventId: { Id: 105, Name: "ActionExecuted" }, SourceContext: "Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker", RequestId: "0HN6V1ROOSIKD:0000000B", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:16 INF] Executed endpoint 'lr_five.Controllers.CookieFormController.Index (lr_five)'
+{ EventId: { Id: 1, Name: "ExecutedEndpoint" }, SourceContext: "Microsoft.AspNetCore.Routing.EndpointMiddleware", RequestId: "0HN6V1ROOSIKD:0000000B", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:16 WRN] Unable to configure Browser Link script injection on the response. 
+{ EventId: { Id: 3, Name: "FailedToConfigureForBrowserLink" }, SourceContext: "Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware", RequestId: "0HN6V1ROOSIKD:0000000B", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:16 WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+{ EventId: { Id: 3, Name: "FailedToConfiguredForRefreshes" }, SourceContext: "Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware", RequestId: "0HN6V1ROOSIKD:0000000B", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:16 INF] Request finished HTTP/2 GET https://localhost:7261/CookieForm - 200 null text/html; charset=utf-8 25.5198ms
+{ EventId: { Id: 2 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:0000000B", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:16 INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+{ EventId: { Id: 1 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:0000000D", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:16 ERR] Exception of type 'System.Exception' was thrown.
+{ SourceContext: "lr_five.Middleware.ErrorHandlingMiddleware", RequestId: "0HN6V1ROOSIKD:0000000D", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }System.Exception: Exception of type 'System.Exception' was thrown.
+   at lr_five.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in D:\5 SEMESTR\ASP.NET\lr_five\Middleware\ErrorHandlingMiddleware.cs:line 25
+
+[2024-09-27 19:14:16 INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null null 68.6463ms
+{ EventId: { Id: 2 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:0000000D", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:16 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7261/favicon.ico, Response status code: 500
+{ EventId: { Id: 16 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:0000000D", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:37 INF] Request starting HTTP/2 POST https://localhost:7261/CookieForm - application/x-www-form-urlencoded 262
+{ EventId: { Id: 1 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:0000000F", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:37 INF] Executing endpoint 'lr_five.Controllers.CookieFormController.Index (lr_five)'
+{ EventId: { Name: "ExecutingEndpoint" }, SourceContext: "Microsoft.AspNetCore.Routing.EndpointMiddleware", RequestId: "0HN6V1ROOSIKD:0000000F", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:37 INF] Route matched with {action = "Index", controller = "CookieForm"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(lr_five.Models.FormCookieInputModel) on controller lr_five.Controllers.CookieFormController (lr_five).
+{ EventId: { Id: 102, Name: "ControllerActionExecuting" }, SourceContext: "Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker", ActionId: "a8aa77e1-ccc1-451c-a387-7fb720c57ed2", ActionName: "lr_five.Controllers.CookieFormController.Index (lr_five)", RequestId: "0HN6V1ROOSIKD:0000000F", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:37 INF] Executing ViewResult, running view Index.
+{ EventId: { Id: 1, Name: "ViewResultExecuting" }, SourceContext: "Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor", ActionId: "a8aa77e1-ccc1-451c-a387-7fb720c57ed2", ActionName: "lr_five.Controllers.CookieFormController.Index (lr_five)", RequestId: "0HN6V1ROOSIKD:0000000F", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:37 INF] Executed ViewResult - view Index executed in 3.2909ms.
+{ EventId: { Id: 4, Name: "ViewResultExecuted" }, SourceContext: "Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor", ActionId: "a8aa77e1-ccc1-451c-a387-7fb720c57ed2", ActionName: "lr_five.Controllers.CookieFormController.Index (lr_five)", RequestId: "0HN6V1ROOSIKD:0000000F", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:37 INF] Executed action lr_five.Controllers.CookieFormController.Index (lr_five) in 35.8102ms
+{ EventId: { Id: 105, Name: "ActionExecuted" }, SourceContext: "Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker", RequestId: "0HN6V1ROOSIKD:0000000F", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:37 INF] Executed endpoint 'lr_five.Controllers.CookieFormController.Index (lr_five)'
+{ EventId: { Id: 1, Name: "ExecutedEndpoint" }, SourceContext: "Microsoft.AspNetCore.Routing.EndpointMiddleware", RequestId: "0HN6V1ROOSIKD:0000000F", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:37 WRN] Unable to configure Browser Link script injection on the response. 
+{ EventId: { Id: 3, Name: "FailedToConfigureForBrowserLink" }, SourceContext: "Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware", RequestId: "0HN6V1ROOSIKD:0000000F", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:37 WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+{ EventId: { Id: 3, Name: "FailedToConfiguredForRefreshes" }, SourceContext: "Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware", RequestId: "0HN6V1ROOSIKD:0000000F", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:37 INF] Request finished HTTP/2 POST https://localhost:7261/CookieForm - 200 null text/html; charset=utf-8 48.285ms
+{ EventId: { Id: 2 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:0000000F", RequestPath: "/CookieForm", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:38 INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+{ EventId: { Id: 1 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000011", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:38 ERR] Exception of type 'System.Exception' was thrown.
+{ SourceContext: "lr_five.Middleware.ErrorHandlingMiddleware", RequestId: "0HN6V1ROOSIKD:00000011", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }System.Exception: Exception of type 'System.Exception' was thrown.
+   at lr_five.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in D:\5 SEMESTR\ASP.NET\lr_five\Middleware\ErrorHandlingMiddleware.cs:line 25
+
+[2024-09-27 19:14:38 INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null null 79.0043ms
+{ EventId: { Id: 2 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000011", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:38 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7261/favicon.ico, Response status code: 500
+{ EventId: { Id: 16 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000011", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:40 INF] Request starting HTTP/2 GET https://localhost:7261/CookieForm/watch_cookie - null null
+{ EventId: { Id: 1 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000013", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:40 INF] Executing endpoint 'lr_five.Controllers.CookieFormController.WatchCookie (lr_five)'
+{ EventId: { Name: "ExecutingEndpoint" }, SourceContext: "Microsoft.AspNetCore.Routing.EndpointMiddleware", RequestId: "0HN6V1ROOSIKD:00000013", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:40 INF] Route matched with {action = "WatchCookie", controller = "CookieForm"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult WatchCookie() on controller lr_five.Controllers.CookieFormController (lr_five).
+{ EventId: { Id: 102, Name: "ControllerActionExecuting" }, SourceContext: "Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker", ActionId: "6864a6b4-8f1e-4c53-a924-1ca4b4ac31cd", ActionName: "lr_five.Controllers.CookieFormController.WatchCookie (lr_five)", RequestId: "0HN6V1ROOSIKD:00000013", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:40 INF] Executing ViewResult, running view WatchCookie.
+{ EventId: { Id: 1, Name: "ViewResultExecuting" }, SourceContext: "Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor", ActionId: "6864a6b4-8f1e-4c53-a924-1ca4b4ac31cd", ActionName: "lr_five.Controllers.CookieFormController.WatchCookie (lr_five)", RequestId: "0HN6V1ROOSIKD:00000013", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:40 INF] Executed ViewResult - view WatchCookie executed in 11.0535ms.
+{ EventId: { Id: 4, Name: "ViewResultExecuted" }, SourceContext: "Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor", ActionId: "6864a6b4-8f1e-4c53-a924-1ca4b4ac31cd", ActionName: "lr_five.Controllers.CookieFormController.WatchCookie (lr_five)", RequestId: "0HN6V1ROOSIKD:00000013", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:40 INF] Executed action lr_five.Controllers.CookieFormController.WatchCookie (lr_five) in 329.4875ms
+{ EventId: { Id: 105, Name: "ActionExecuted" }, SourceContext: "Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker", RequestId: "0HN6V1ROOSIKD:00000013", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:40 INF] Executed endpoint 'lr_five.Controllers.CookieFormController.WatchCookie (lr_five)'
+{ EventId: { Id: 1, Name: "ExecutedEndpoint" }, SourceContext: "Microsoft.AspNetCore.Routing.EndpointMiddleware", RequestId: "0HN6V1ROOSIKD:00000013", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:41 ERR] Exception of type 'System.Exception' was thrown.
+{ SourceContext: "lr_five.Middleware.ErrorHandlingMiddleware", RequestId: "0HN6V1ROOSIKD:00000013", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }System.Exception: Exception of type 'System.Exception' was thrown.
+   at lr_five.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in D:\5 SEMESTR\ASP.NET\lr_five\Middleware\ErrorHandlingMiddleware.cs:line 25
+
+[2024-09-27 19:14:41 ERR] An unhandled exception has occurred while executing the request.
+{ EventId: { Id: 1, Name: "UnhandledException" }, SourceContext: "Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware", RequestId: "0HN6V1ROOSIKD:00000013", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at lr_five.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in D:\5 SEMESTR\ASP.NET\lr_five\Middleware\ErrorHandlingMiddleware.cs:line 31
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+
+[2024-09-27 19:14:41 WRN] The response has already started, the error page middleware will not be executed.
+{ EventId: { Id: 2, Name: "ResponseStarted" }, SourceContext: "Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware", RequestId: "0HN6V1ROOSIKD:00000013", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:14:41 ERR] Connection id "0HN6V1ROOSIKD", Request id "0HN6V1ROOSIKD:00000013": An unhandled exception was thrown by the application.
+{ EventId: { Id: 13, Name: "ApplicationError" }, SourceContext: "Microsoft.AspNetCore.Server.Kestrel", RequestId: "0HN6V1ROOSIKD:00000013", RequestPath: "/CookieForm/watch_cookie" }System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ThrowResponseAlreadyStartedException(String value)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.set_StatusCode(Int32 value)
+   at lr_five.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in D:\5 SEMESTR\ASP.NET\lr_five\Middleware\ErrorHandlingMiddleware.cs:line 31
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+   at Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+
+[2024-09-27 19:14:41 INF] Request finished HTTP/2 GET https://localhost:7261/CookieForm/watch_cookie - 200 null text/html; charset=utf-8 1152.8397ms
+{ EventId: { Id: 2 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000013", RequestPath: "/CookieForm/watch_cookie", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:15:15 INF] Request starting HTTP/2 GET https://localhost:7261/fdsfsdfsd - null null
+{ EventId: { Id: 1 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000015", RequestPath: "/fdsfsdfsd", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:15:15 ERR] Exception of type 'System.Exception' was thrown.
+{ SourceContext: "lr_five.Middleware.ErrorHandlingMiddleware", RequestId: "0HN6V1ROOSIKD:00000015", RequestPath: "/fdsfsdfsd", ConnectionId: "0HN6V1ROOSIKD" }System.Exception: Exception of type 'System.Exception' was thrown.
+   at lr_five.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in D:\5 SEMESTR\ASP.NET\lr_five\Middleware\ErrorHandlingMiddleware.cs:line 25
+
+[2024-09-27 19:15:15 INF] Request finished HTTP/2 GET https://localhost:7261/fdsfsdfsd - 500 null null 105.3712ms
+{ EventId: { Id: 2 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000015", RequestPath: "/fdsfsdfsd", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:15:15 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7261/fdsfsdfsd, Response status code: 500
+{ EventId: { Id: 16 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000015", RequestPath: "/fdsfsdfsd", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:15:15 INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+{ EventId: { Id: 1 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000017", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:15:16 ERR] Exception of type 'System.Exception' was thrown.
+{ SourceContext: "lr_five.Middleware.ErrorHandlingMiddleware", RequestId: "0HN6V1ROOSIKD:00000017", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }System.Exception: Exception of type 'System.Exception' was thrown.
+   at lr_five.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in D:\5 SEMESTR\ASP.NET\lr_five\Middleware\ErrorHandlingMiddleware.cs:line 25
+
+[2024-09-27 19:15:16 INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 500 null null 59.3837ms
+{ EventId: { Id: 2 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000017", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }
+[2024-09-27 19:15:16 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7261/favicon.ico, Response status code: 500
+{ EventId: { Id: 16 }, SourceContext: "Microsoft.AspNetCore.Hosting.Diagnostics", RequestId: "0HN6V1ROOSIKD:00000017", RequestPath: "/favicon.ico", ConnectionId: "0HN6V1ROOSIKD" }

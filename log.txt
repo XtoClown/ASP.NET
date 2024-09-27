@@ -1,0 +1,70 @@
+2024-09-27 10:40:34.460 +03:00 [INF] User profile is available. Using 'C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-27 10:40:34.865 +03:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2024-09-27 10:40:34.935 +03:00 [INF] Now listening on: https://localhost:7261
+2024-09-27 10:40:34.935 +03:00 [INF] Now listening on: http://localhost:5092
+2024-09-27 10:40:35.118 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-27 10:40:35.118 +03:00 [INF] Hosting environment: Development
+2024-09-27 10:40:35.118 +03:00 [INF] Content root path: D:\5 SEMESTR\ASP.NET\lr_five
+2024-09-27 10:40:37.669 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7261/ - null null
+2024-09-27 10:40:37.900 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7261/ - 404 0 null 239.0735ms
+2024-09-27 10:40:37.905 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7261/, Response status code: 404
+2024-09-27 10:40:58.429 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7261/fdsfs - null null
+2024-09-27 10:40:58.437 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7261/fdsfs - 404 0 null 9.0146ms
+2024-09-27 10:40:58.438 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7261/fdsfs, Response status code: 404
+[2024-09-27 10:47:42 INF] User profile is available. Using 'C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2024-09-27 10:47:42 WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+[2024-09-27 10:47:42 INF] Now listening on: https://localhost:7261
+[2024-09-27 10:47:42 INF] Now listening on: http://localhost:5092
+[2024-09-27 10:47:42 INF] Application started. Press Ctrl+C to shut down.
+[2024-09-27 10:47:42 INF] Hosting environment: Development
+[2024-09-27 10:47:42 INF] Content root path: D:\5 SEMESTR\ASP.NET\lr_five
+[2024-09-27 10:47:43 INF] Request starting HTTP/2 GET https://localhost:7261/ - null null
+[2024-09-27 10:47:44 INF] Request finished HTTP/2 GET https://localhost:7261/ - 404 0 null 341.5405ms
+[2024-09-27 10:47:44 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7261/, Response status code: 404
+[2024-09-27 10:47:56 INF] Request starting HTTP/2 GET https://localhost:7261/Error - null null
+[2024-09-27 10:47:56 INF] Request finished HTTP/2 GET https://localhost:7261/Error - 404 0 null 8.6801ms
+[2024-09-27 10:47:56 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7261/Error, Response status code: 404
+[2024-09-27 10:48:06 INF] Request starting HTTP/2 GET https://localhost:7261/WebCookie/Error - null null
+[2024-09-27 10:48:06 INF] Request finished HTTP/2 GET https://localhost:7261/WebCookie/Error - 404 0 null 5.9844ms
+[2024-09-27 10:48:06 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7261/WebCookie/Error, Response status code: 404
+[2024-09-27 10:48:21 INF] Request starting HTTP/2 GET https://localhost:7261/CookieForm - null null
+[2024-09-27 10:48:21 INF] Executing endpoint 'lr_five.Controllers.CookieFormController.Index (lr_five)'
+[2024-09-27 10:48:21 INF] Route matched with {action = "Index", controller = "CookieForm"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller lr_five.Controllers.CookieFormController (lr_five).
+[2024-09-27 10:48:21 INF] Executing ViewResult, running view Index.
+[2024-09-27 10:48:21 INF] Executed ViewResult - view Index executed in 121.6391ms.
+[2024-09-27 10:48:21 INF] Executed action lr_five.Controllers.CookieFormController.Index (lr_five) in 135.1768ms
+[2024-09-27 10:48:21 INF] Executed endpoint 'lr_five.Controllers.CookieFormController.Index (lr_five)'
+[2024-09-27 10:48:21 WRN] Unable to configure Browser Link script injection on the response. 
+[2024-09-27 10:48:21 WRN] Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+[2024-09-27 10:48:21 INF] Request finished HTTP/2 GET https://localhost:7261/CookieForm - 200 null text/html; charset=utf-8 245.0269ms
+[2024-09-27 10:48:22 INF] Request starting HTTP/2 GET https://localhost:7261/favicon.ico - null null
+[2024-09-27 10:48:22 INF] Request finished HTTP/2 GET https://localhost:7261/favicon.ico - 404 0 null 0.516ms
+[2024-09-27 10:48:22 INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7261/favicon.ico, Response status code: 404
+[2024-09-27 10:48:26 INF] Request starting HTTP/2 GET https://localhost:7261/CookieForm/Error - null null
+[2024-09-27 10:48:26 INF] Executing endpoint 'lr_five.Controllers.CookieFormController.Error (lr_five)'
+[2024-09-27 10:48:26 INF] Route matched with {action = "Error", controller = "CookieForm"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Error() on controller lr_five.Controllers.CookieFormController (lr_five).
+[2024-09-27 10:48:26 INF] Executed action lr_five.Controllers.CookieFormController.Error (lr_five) in 293.7707ms
+[2024-09-27 10:48:26 INF] Executed endpoint 'lr_five.Controllers.CookieFormController.Error (lr_five)'
+[2024-09-27 10:48:26 ERR] This is a test exception.
+System.Exception: This is a test exception.
+   at lr_five.Controllers.CookieFormController.Error() in D:\5 SEMESTR\ASP.NET\lr_five\Controllers\CookieFormController.cs:line 31
+   at lambda_method11(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at lr_five.Middleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext context) in D:\5 SEMESTR\ASP.NET\lr_five\Middleware\ErrorHandlingMiddleware.cs:line 21
+[2024-09-27 10:48:26 INF] Request finished HTTP/2 GET https://localhost:7261/CookieForm/Error - 500 null null 524.2161ms

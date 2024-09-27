@@ -1,0 +1,43 @@
+[
+  {
+    "ContainingType": "lr_five.Controllers.CookieFormController",
+    "Method": "Index",
+    "RelativePath": "CookieForm",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "lr_five.Controllers.CookieFormController",
+    "Method": "Index",
+    "RelativePath": "CookieForm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TextFromInput",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DateFromInput",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "lr_five.Controllers.CookieFormController",
+    "Method": "WatchCookie",
+    "RelativePath": "CookieForm/watch_cookie",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

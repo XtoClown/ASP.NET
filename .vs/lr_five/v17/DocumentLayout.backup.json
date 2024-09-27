@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5 SEMESTR\\ASP.NET\\lr_five\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D70D73-097D-455C-8B8E-5FA62CE097AE}|lr_five.csproj|d:\\5 semestr\\asp.net\\lr_five\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D70D73-097D-455C-8B8E-5FA62CE097AE}|lr_five.csproj|solutionrelative:middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D70D73-097D-455C-8B8E-5FA62CE097AE}|lr_five.csproj|d:\\5 semestr\\asp.net\\lr_five\\views\\cookieform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2D70D73-097D-455C-8B8E-5FA62CE097AE}|lr_five.csproj|solutionrelative:views\\cookieform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D70D73-097D-455C-8B8E-5FA62CE097AE}|lr_five.csproj|d:\\5 semestr\\asp.net\\lr_five\\views\\cookieform\\watchcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2D70D73-097D-455C-8B8E-5FA62CE097AE}|lr_five.csproj|solutionrelative:views\\cookieform\\watchcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D70D73-097D-455C-8B8E-5FA62CE097AE}|lr_five.csproj|d:\\5 semestr\\asp.net\\lr_five\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2D70D73-097D-455C-8B8E-5FA62CE097AE}|lr_five.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D70D73-097D-455C-8B8E-5FA62CE097AE}|lr_five.csproj|d:\\5 semestr\\asp.net\\lr_five\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D70D73-097D-455C-8B8E-5FA62CE097AE}|lr_five.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D70D73-097D-455C-8B8E-5FA62CE097AE}|lr_five.csproj|d:\\5 semestr\\asp.net\\lr_five\\models\\formcookieinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D70D73-097D-455C-8B8E-5FA62CE097AE}|lr_five.csproj|solutionrelative:models\\formcookieinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D70D73-097D-455C-8B8E-5FA62CE097AE}|lr_five.csproj|d:\\5 semestr\\asp.net\\lr_five\\controllers\\cookieformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D70D73-097D-455C-8B8E-5FA62CE097AE}|lr_five.csproj|solutionrelative:controllers\\cookieformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_five\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_five\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T07:36:59.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_five\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_five\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:42:27.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WatchCookie.cshtml",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_five\\Views\\CookieForm\\WatchCookie.cshtml",
+              "RelativeDocumentMoniker": "Views\\CookieForm\\WatchCookie.cshtml",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_five\\Views\\CookieForm\\WatchCookie.cshtml",
+              "RelativeToolTip": "Views\\CookieForm\\WatchCookie.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T20:25:57.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_five\\Views\\CookieForm\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CookieForm\\Index.cshtml",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_five\\Views\\CookieForm\\Index.cshtml",
+              "RelativeToolTip": "Views\\CookieForm\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T19:50:39.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormCookieInputModel.cs",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_five\\Models\\FormCookieInputModel.cs",
+              "RelativeDocumentMoniker": "Models\\FormCookieInputModel.cs",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_five\\Models\\FormCookieInputModel.cs",
+              "RelativeToolTip": "Models\\FormCookieInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:13:55.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_five\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_five\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:31:57.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CookieFormController.cs",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_five\\Controllers\\CookieFormController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CookieFormController.cs",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_five\\Controllers\\CookieFormController.cs",
+              "RelativeToolTip": "Controllers\\CookieFormController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:25:00.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

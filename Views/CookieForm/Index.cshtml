@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+@model lr_five.Models.FormCookieInputModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<form method="post" style="height: 100%; width: 100%; margin: 0px; display: flex; flex-direction:column; justify-content:center; align-items: center; font-size: 3vmin; gap: 2vmin">
+    <div>
+        <label asp-for="TextFromInput">Text</label>&nbsp;
+        <input type="text" asp-for="TextFromInput" required style="height: 4vmin; width: 25vmin; font-size: 3vmin" />
+    </div>
+    <div>
+        <label asp-for="DateFromInput">Date</label>&nbsp;
+        <input type="date" asp-for="DateFromInput" required style="height: 4vmin; width: 25vmin; font-size: 3vmin" />
+    </div>
+    <button type="submit" style="height: 6vmin; width: 20vmin; font-size: 3.5vmin">Send</button>
+    <a asp-action="WatchCookie">Check cookie</a>
+</form>
+
