@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "Result";
+    List<lr_six.Models.Product> model = ViewBag.model;
+    String username = ViewBag.username;
+}
+
+
+<div style="width: 100%; height: 100%; margin: 0px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <div style="width: 90%; height: 90%; display: grid; grid-template-columns: repeat(3, 1fr); gap: 5%; justify-items: center; align-items: center;">
+        @foreach (var item in model)
+        {
+            <div style="width: 90%; height: 90%; display: flex; flex-direction: column; justify-content: center; align-items: center; border: 0.5vmin solid black; border-radius: 1vmin;font-size: 3.25vmin; gap: 10%">
+                <div>Product name: @item.ProductNameFromInput</div>
+                <div>Product price: @item.ProductPriceFromInput</div>
+                <div>Ordered by: @username</div>
+            </div>
+        }
+    </div>
+</div>
+

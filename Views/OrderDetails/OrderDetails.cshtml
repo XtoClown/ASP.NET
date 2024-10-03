@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "OrderDetails";
+}
+
+@model List<lr_six.Models.Product>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<form method="post" style="width: 100%; height: 100%; margin: 0px; display: flex; flex-direction: column; justify-content: center; align-items: center; font-size: 3vmin;">
+    @for(var i = 0; i < Model?.Count; i++)
+    {
+        <div>Product @(1+i)</div>
+        <div style="font-size: 3vmin; display: flex; flex-direction: column; justify-content: center; align-items: center; width: 50%; height: 10%; gap: 5%">
+            <div style="display: flex; flex-direction: row; gap: 5%; height: 60%; width: 100%; justify-content: center; align-items: center;">
+                <label asp-for="@Model[i].ProductNameFromInput" style="height: 60%; font-size: 3vmin; width: 6%; display: flex; align-items: start;">Name:</label>
+                <input type="text" asp-for="@Model[i].ProductNameFromInput" style="width: 30%; height: 100%; font-size: 3vmin; border-radius: 2vmin; text-indent: 5%" />
+            </div>
+            <div style="display: flex; justify-content: center; align-items: center;">
+                <span asp-validation-for="@Model[i].ProductNameFromInput" style="font-size: 2vmin"></span>
+            </div>
+        </div>
+        <div style="font-size: 3vmin; display: flex; flex-direction: column; justify-content: center; align-items: center; width: 50%; height: 10%; gap: 5%">
+            <div style="display: flex; flex-direction: row; gap: 5%; height: 60%; width: 100%; justify-content: center; align-items: center;">
+                <label asp-for="@Model[i].ProductPriceFromInput" style="height: 60%; font-size: 3vmin; width: 6%; display: flex; align-items: start;">Price:</label>
+                <input type="text" asp-for="@Model[i].ProductPriceFromInput" style="width: 30%; height: 100%; font-size: 3vmin; border-radius: 2vmin; text-indent: 5%" />
+            </div>
+            <div style="display: flex; justify-content: center; align-items: center;">
+                <span asp-validation-for="@Model[i].ProductPriceFromInput" style="font-size: 2vmin"></span>
+            </div>
+        </div>
+    }
+    <button style="height: 7%; width: 15%; font-size: 3.5vmin; border-radius: 2vmin">Order</button>
+</form>

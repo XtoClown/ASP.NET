@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "Order";
+}
+
+@model lr_six.Models.Order
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<form method="post" style="width: 100%; height: 100%; margin: 0px; display: flex; flex-direction: column; justify-content: center; align-items: center; font-size: 3vmin;">
+    <div style="font-size: 3vmin; display: flex; flex-direction: column; justify-content: center; align-items: center; width: 50%; height: 10%; gap: 10%; margin: 5%">
+        <div style="display: flex; flex-direction: row; gap: 5%; height: 60%; width: 100%; justify-content: center; align-items: center;">
+            <label asp-for="AmountOfProductsFromInput" style="height: 60%; font-size: 3vmin; width: 10%; display: flex; align-items: start;">Amount:</label>
+            <input type="text" asp-for="AmountOfProductsFromInput" style="width: 24%; height: 100%; font-size: 3vmin; border-radius: 2vmin; text-indent: 5%" />
+        </div>
+        <div style="display: flex; justify-content: center; align-items: center;">
+            <span asp-validation-for="AmountOfProductsFromInput" style="font-size: 2vmin"></span>
+        </div>
+    </div>
+    <button style="height: 7%; width: 15%; font-size: 3.5vmin; border-radius: 2vmin">Make Order</button>
+</form>
+
