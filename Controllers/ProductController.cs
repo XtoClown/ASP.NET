@@ -10,11 +10,11 @@ namespace lr_eight.Controllers
         {
             List<ProductViewModel> products = new List<ProductViewModel>();
 
-            ProductViewModel product1 = new ProductViewModel { Id = 0, Name = "FDSFSD", Price = 14.88, CreatedDate =DateTime.Now };
-            ProductViewModel product2 = new ProductViewModel { Id = 2, Name = "FSDFSD", Price = 14.88, CreatedDate = DateTime.Now };
-            ProductViewModel product3 = new ProductViewModel { Id = 3, Name = "SDF", Price = 14.88, CreatedDate = DateTime.Now };
-            ProductViewModel product4 = new ProductViewModel { Id = 4, Name = "GFDGFD", Price = 14.88, CreatedDate = DateTime.Now };
-            ProductViewModel product5 = new ProductViewModel { Id = 5, Name = "FDGDFG", Price = 14.88, CreatedDate = DateTime.Now };
+            ProductViewModel product1 = new ProductViewModel { Id = 0, Name = "Meat", Price = 148.98, CreatedDate =DateTime.Now };
+            ProductViewModel product2 = new ProductViewModel { Id = 1, Name = "Fish", Price = 200, CreatedDate = new DateTime(2024, 10, 12, 18, 30, 25) };
+            ProductViewModel product3 = new ProductViewModel { Id = 2, Name = "Potato", Price = 50.25, CreatedDate = new DateTime(2025, 5, 12, 12, 30, 00) };
+            ProductViewModel product4 = new ProductViewModel { Id = 3, Name = "Cucumber", Price = 70.60, CreatedDate = new DateTime(2026, 11, 14, 8, 8, 48) };
+            ProductViewModel product5 = new ProductViewModel { Id = 4, Name = "Tomato", Price = 120, CreatedDate = new DateTime(2027, 12, 31, 23, 59, 59) };
 
             products.Add(product1);
             products.Add(product2);

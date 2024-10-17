@@ -22,4 +22,13 @@
         </tr>
     }
 </table>
+<div class="bg-dark text-light">
+    <ul>
+        <li>ID. Name - Price$ (Create Date)</li>
+        @foreach(var product in Model)
+        {
+            <li>@product.Id. @product.Name - @product.Price$ (@product.CreatedDate)</li>
+        }
+    </ul>
+</div>
 
