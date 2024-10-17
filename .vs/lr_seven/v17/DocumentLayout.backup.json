@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5 SEMESTR\\ASP.NET\\lr_seven\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B63B7E02-FB3C-402C-8C32-15CD486C26E9}|lr_seven.csproj|d:\\5 semestr\\asp.net\\lr_seven\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63B7E02-FB3C-402C-8C32-15CD486C26E9}|lr_seven.csproj|solutionrelative:controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63B7E02-FB3C-402C-8C32-15CD486C26E9}|lr_seven.csproj|d:\\5 semestr\\asp.net\\lr_seven\\models\\filegetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63B7E02-FB3C-402C-8C32-15CD486C26E9}|lr_seven.csproj|solutionrelative:models\\filegetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63B7E02-FB3C-402C-8C32-15CD486C26E9}|lr_seven.csproj|d:\\5 semestr\\asp.net\\lr_seven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63B7E02-FB3C-402C-8C32-15CD486C26E9}|lr_seven.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_seven\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_seven\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:17:49.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileGetModel.cs",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_seven\\Models\\FileGetModel.cs",
+              "RelativeDocumentMoniker": "Models\\FileGetModel.cs",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_seven\\Models\\FileGetModel.cs",
+              "RelativeToolTip": "Models\\FileGetModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:06:56.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "D:\\5 SEMESTR\\ASP.NET\\lr_seven\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FileController.cs",
+              "ToolTip": "D:\\5 SEMESTR\\ASP.NET\\lr_seven\\Controllers\\FileController.cs*",
+              "RelativeToolTip": "Controllers\\FileController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:05:06.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

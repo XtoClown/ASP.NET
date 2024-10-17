@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model lr_seven.Models.FileGetModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<head>
+    <link rel="stylesheet" href="@Url.Content("~/Content/style.css")">
+</head>
+<body>
+    <form method="post" class="test">
+        <div>
+            <label asp-for="FileName">First Name: </label>
+            <input type="text" asp-for="FirstName" />
+            <span asp-validation-for="FirstName"></span>
+        </div>
+        <div>
+            <label asp-for="LastName">Last Name: </label>
+            <input type="text" asp-for="LastName" />
+            <span asp-validation-for="LastName"></span>
+        </div>
+        <div>
+            <label asp-for="FileName">File Name: </label>
+            <input type="text" asp-for="FileName" />
+            <span asp-validation-for="FileName"></span>
+        </div>
+        <button>Click me</button>
+    </form>
+</body>
